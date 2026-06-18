@@ -14,6 +14,8 @@ Welcome! This repository serves as the official open source companion to my tech
 | **02** | How to create, run, and edit a CPP file on MAC | [Watch 🎥](https://youtu.be/WiBU-uuRKlw?si=1lckTC1VXEbDRfpD) | Coming Soon |
 | **03** | A guide to Cyber Attacks | [Watch 🎥](https://youtu.be/SnavJ3imVeo) | [Notes & Code 📂](./Episode-01-A-guide-to-cyber-attacks/) |
 | **04** | Introduction to Cyber Security | [Watch 🎥](https://youtu.be/LWGC-0I30V4?si=FocKo3vkUkdDvS9B) | [Notes & Code 📂](./Episode-02-introduction-to-cyber-security/) |
+| **05** | Hash Tables C++ | [Watch 🎥](https://youtu.be/nmPJRj523IY?si=-ZzMkvJdkULel7sE) | [Notes & Code 📂](./Episode-03-Hash-Tables-C++/) |
+
 
 ---
 
