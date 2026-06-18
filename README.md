@@ -12,7 +12,7 @@ Welcome! This repository serves as the official open-source companion to my AI-a
 | :--- | :--- | :---: | :---: |
 | **01** | C++ on your MAC | [Watch 🎥](https://youtu.be/qTqKaaPyFAo?si=H4u-pMm-ZQ33fBXB) 
 | **02** | How to create, run, and edit a CPP file on MAC | [Watch 🎥](https://youtu.be/WiBU-uuRKlw?si=1lckTC1VXEbDRfpD)
-| **03** | What is Cyber Security | [Watch 🎥](https://link-to-video) | [Notes & Code 📂](./Episode-03/) |
+| **03** | A guide to Cyber Attacks | [Watch 🎥](https://youtu.be/SnavJ3imVeo) | [Notes & Code 📂](./Episode-03/) |
 
 ---
 
