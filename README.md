@@ -15,6 +15,7 @@ Welcome! This repository serves as the official open source companion to my tech
 | **03** | A guide to Cyber Attacks | [Watch 🎥](https://youtu.be/SnavJ3imVeo) | [Notes & Code 📂](./Episode-01-A-guide-to-cyber-attacks/) |
 | **04** | Introduction to Cyber Security | [Watch 🎥](https://youtu.be/LWGC-0I30V4?si=FocKo3vkUkdDvS9B) | [Notes & Code 📂](./Episode-02-introduction-to-cyber-security/) |
 | **05** | Hash Tables C++ | [Watch 🎥](https://youtu.be/nmPJRj523IY?si=-ZzMkvJdkULel7sE) | [Notes & Code 📂](./Episode-03-Hash-Tables-C++/) |
+| **06** | Memory Mastery | [Watch 🎥](https://youtu.be/QuR24dR9L2g) | [Notes & Code 📂](./Episode-04-memory-mastery-C++/) |
 
 
 ---
